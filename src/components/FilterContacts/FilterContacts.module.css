@@ -1,0 +1,14 @@
+.findForm {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.findFormLabel {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  font-size: 20px;
+}

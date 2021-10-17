@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: auto;
+  margin-right: auto;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+  margin-bottom: 4px;
+  width: 400px;
+}
+
+.deleteBtn {
+  background-color: tomato;
+  border-style: none;
+  border-radius: 2px;
+}
